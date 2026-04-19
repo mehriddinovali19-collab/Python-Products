@@ -87,7 +87,7 @@ products = [
         "id": "235a4b12-64e3-4069-bb81-3ece56215755",
         "is_active": True,
         "name": "Samsung Galaxy",
-        "reviews": [
+        "": [
             {
                 "comment": "Not bad",
                 "created_at": "2026-04-17T10:44:19.445540",
